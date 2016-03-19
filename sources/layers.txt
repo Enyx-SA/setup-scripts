@@ -3,6 +3,6 @@ meta-angstrom,git://github.com/Angstrom-distribution/meta-angstrom,angstrom-v201
 meta-openembedded,git://github.com/openembedded/meta-openembedded.git,dizzy,HEAD
 meta-linaro,git://git.linaro.org/openembedded/meta-linaro.git,dizzy,HEAD
 meta-altera,https://github.com/dwesterg/meta-altera.git,angstrom-v2014.12-yocto1.7,HEAD
-meta-altera-refdes,https://github.com/Enyx-SA/meta-altera-refdes.git,atlas,HEAD
-meta-enyx,https://github.com/Enyx-SA/meta-enyx.git,master,HEAD
+meta-altera-refdes,https://github.com/enyx-opensource/meta-altera-refdes.git,atlas,HEAD
+meta-enyx,https://github.com/enyx-opensource/meta-enyx.git,master,HEAD
 openembedded-core,git://github.com/openembedded/openembedded-core.git,dizzy,HEAD
